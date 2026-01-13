@@ -209,7 +209,7 @@ Each script is self-contained and can be run independently. All scripts use hard
 ### Notes
 
 - All scripts use `localhost` as the client key
-- Region is set to `centralindia` (can be modified in scripts if needed)
+- Region is set to `centralindia/ap-south-1` (can be modified in scripts if needed)
 - Scripts are executable by default
 - Each script includes error handling with `set -e`
 - Progress messages are printed to stdout for monitoring
