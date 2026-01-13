@@ -21,4 +21,4 @@ python3 wf_exec.py --wf-user-directory <path> --dynamism static --wf graph
 ## Sample Plots
 
 Sample plots from the paper are available in this directory:
-- `fig15-wf_exec.png`: Workflow execution time breakdown plots
+- `wf_exec.pdf`: Workflow execution time breakdown plots

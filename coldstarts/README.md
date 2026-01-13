@@ -21,4 +21,4 @@ python3 coldstarts.py --wf-user-directory <path> --dynamism static --wf graph
 ## Sample Plots
 
 Sample plots from the paper are available in this directory:
-- `coldstarts-fig9-11.png`: Cold start vs warm start comparison plots
+- `coldstarts.pdf`: Cold start vs warm start comparison plots

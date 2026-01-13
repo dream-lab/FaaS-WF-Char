@@ -22,4 +22,4 @@ python3 inter_fn.py --wf-user-directory <path> --dynamism static --wf graph
 ## Sample Plots
 
 Sample plots from the paper are available in this directory:
-- `fig14-interfn.png`: Inter-function communication time analysis plots
+- `inter_fn.pdf`: Inter-function communication time analysis plots

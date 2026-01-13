@@ -23,4 +23,4 @@ python3 scaling-appendix.py --wf graph --dynamism workload
 ## Sample Plots
 
 Sample plots from the paper are available in this directory:
-- `fig7-scaling.png`: Scaling behavior plots for all workflows
+- `scaling.pdf`: Scaling behavior plots for all workflows

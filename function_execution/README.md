@@ -25,4 +25,4 @@ python3 func_exec.py
 ## Sample Plots
 
 Sample plots from the paper are available in this directory:
-- `fig13-func_exec.png`: Function execution time analysis across hardware types
+- `func_exec.pdf`: Function execution time analysis across hardware types
